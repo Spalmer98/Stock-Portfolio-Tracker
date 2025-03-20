@@ -37,7 +37,7 @@ class Stock {
     return this.NASDAQid;
   }
 
-  public String getvalue() {
+  public String getValue() {
     return this.value;
   }
 
@@ -53,7 +53,7 @@ class Stock {
     this.NASDAQid = NASDAQid;
   }
 
-  public void setvalue(String value) {
+  public void setValue(String value) {
     this.value = value;
   }
 
@@ -66,7 +66,7 @@ class Stock {
       return false;
     Stock stock = (Stock) o;
     return Objects.equals(this.id, stock.id) && Objects.equals(this.name, stock.name)
-        && Object.equals(this.NASDAQid, stock.NASDAQid) && Objects.equals(this.value, stock.value);
+        && Objects.equals(this.NASDAQid, stock.NASDAQid) && Objects.equals(this.value, stock.value);
   }
 
   @Override

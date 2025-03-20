@@ -1,8 +1,7 @@
 {
     "java.compile.nullAnalysis.mode": "automatic",
     "java.project.sourcePaths": [
-        "Stock Portfolio Tracker/src",
-        "Stock Portfolio/src/main/java/portfolio"
+        "portfolio/src/main/java/StockTracker/portfolio"
     ],
     "java.configuration.updateBuildConfiguration": "interactive"
 }
