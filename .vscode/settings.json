@@ -1,7 +1,7 @@
 {
-    "java.compile.nullAnalysis.mode": "automatic",
-    "java.project.sourcePaths": [
-        "portfolio/src/main/java/StockTracker/portfolio"
-    ],
-    "java.configuration.updateBuildConfiguration": "interactive"
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar"
+    ]
 }

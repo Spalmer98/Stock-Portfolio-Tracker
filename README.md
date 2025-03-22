@@ -1,24 +1,18 @@
 # Overview
 
-{Important! Do not say in this section that this is college assignment. Talk about what you are trying to accomplish as a software engineer to further your learning.}
+I created a program that allows the user to add stocks to a portfolio with accurate current stock prices. The program contains a simple menu that prompts the user to make a choice from a given option list. The options are 'Add a stock', 'View stocks in portfolio', 'Remove a stock', 'Load a Portfolio', 'Save Portfolio', and 'Exit Program'. Each option is self explanitory, but I have yet to properly incorperate the load and save funtions. 
 
-{Provide a description of the software that you wrote to demonstrate the Java language.}
-
-{Describe your purpose for writing this software.}
-
-{Provide a link to your YouTube demonstration. It should be a 4-5 minute demo of the software running and a walkthrough of the code. Focus should be on sharing what you learned about the language syntax.}
+I wrote this software to stretch my knowledge of Java coding and to learn how to use and incorperate API's into a program. I chose stocks because I've always loved playing around with fake stock programs and wanted to try my hand at one.
 
 [Software Demo Video](http://youtube.link.goes.here)
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
+I used Visual Sudio Code as my main editor program and I used Finnhub for my API.
 
-{Describe the programming language that you used and any libraries.}
+I wrote this program in Java and used the Java.util, java.io.BufferedReader, java.io.InputStreamReader, java.net.HttpURLConnection, java.net.URL, com.google.gson.Gson,and com.google.gson.JsonObject libraries.
 
 # Useful Websites
-
-{Make a list of websites that you found helpful in this project}
 
 - [Finnhub - Stock API](https://finnhub.io/)
 - [polygon.io - Stock API](https://polygon.io/)
@@ -27,8 +21,6 @@
 - [geeksforgeeks - Java User Input](https://www.geeksforgeeks.org/how-to-take-input-from-user-in-java/)
 
 # Future Work
-
-{Make a list of things that you need to fix, improve, and add in the future.}
 
 - Incorperate WebSockets to provide real-time accurate data.
 - Work through all inputs to ensure all exceptions are caught and properly addressed.
