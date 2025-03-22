@@ -4,7 +4,7 @@ I created a program that allows the user to add stocks to a portfolio with accur
 
 I wrote this software to stretch my knowledge of Java coding and to learn how to use and incorperate API's into a program. I chose stocks because I've always loved playing around with fake stock programs and wanted to try my hand at one.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/n7mbOLdjaiE)
 
 # Development Environment
 
